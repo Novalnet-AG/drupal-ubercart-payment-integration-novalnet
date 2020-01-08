@@ -1,5 +1,5 @@
 # DRUPAL ÜBERCART PAYMENT INTEGRATION BY NOVALNET
-The Drupal Übercart Payment Gateway by Novalnet enables secure integration of payments and payment services for Drupal Übercart shops. It helps to automate <a href= "https://www.novalnet.de/produkte"> optimize payment processing </a>, enrich customer experiences and improve conversion rates all at once.
+The Drupal Übercart Payment Gateway by Novalnet enables secure integration of payments and payment services for Drupal Übercart shops. It helps to automate <a href= "https://www.novalnet.de/produkte"> payment processing </a>, enrich customer experiences and improve conversion rates all at once.
 
 ## Integration requirements
 Novalnet <a href= "https://www.novalnet.de/"> merchant account </a> is required for processing both local and international payments through the Drupal Übercart Payment Gateway. One contract with Novalnet eliminates the need to establish multiple contracts with different service providers from checkout to debt collection.
@@ -42,8 +42,8 @@ For detailed documentation and other technical inquiries,please contact <a href=
 * Direct Debit SEPA with payment guarantee
 * Invoice with payment guarantee
 
-<a href= "https://www.novalnet.de/zahlungsabwicklung"> Check detailed descriptions of all payment types. </a> please contact: <a 
-href="mailto:sales@novalnet.de"> sales@novalnet.de </a> or +49 89 9230683-20 for more information & additional inquiries.
+<a href= "https://www.novalnet.de/zahlungsabwicklung"> Check detailed descriptions of all payment types. </a> 
+Please contact: <a href="mailto:sales@novalnet.de"> sales@novalnet.de </a> or +49 89 9230683-20 for more information & additional inquiries.
 
 ## Integration steps
 
