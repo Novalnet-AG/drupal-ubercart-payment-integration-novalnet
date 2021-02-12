@@ -1,7 +1,6 @@
 *** Changelog ***
 
 = 11.2.0 - 2019.11.19 =
-
 * New      - Force 3D secure process has been implemented as per predefined filters and settings in the Novalnet Merchant Administration portal
 * New      - Custom checkout overlay for Barzahlen
 * New      - Guaranteed payment pending status has been implemented
@@ -47,5 +46,3 @@
 
 = 10.0.0 - 2015.05.12 =
 * New release
-
-*****************************************
